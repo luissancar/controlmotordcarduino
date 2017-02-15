@@ -3,3 +3,6 @@
 - Entrada señal arduino PWM.
 - Conexión motor.
 - Salida alimentación arduino.
+
+
+![](ardumodc.png)
